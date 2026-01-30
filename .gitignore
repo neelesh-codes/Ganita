@@ -1,0 +1,8 @@
+# python virtual enviorment
+venv/
+
+# Visual studio code settings folder
+.vscode/
+
+# test array file
+test_array.npy
